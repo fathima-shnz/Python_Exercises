@@ -1,0 +1,1 @@
+Numpy Array Operations: Problem Statement: To learn how to use NumPy for creating arrays, performing basic array operations, and conducting numerical computations through analyzing temperature data. Scenario: You are given a list of daily average temperatures (in degrees Celsius) recorded over two weeks. Your task is to use NumPy to analyze this data.
